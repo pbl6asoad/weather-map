@@ -132,6 +132,8 @@ fetch('https://gist.githubusercontent.com/pbl6asoad/cd160e40d30e9ff468488fcb0bf6
 
                 
            document.querySelector("#select3").removeEventListener('change', qwww)
+           
+           document.querySelector("#select3").addEventListener('change', qwww)
             }
 
            document.querySelector("#select3").addEventListener('change', qwww)
@@ -172,6 +174,8 @@ fetch('https://gist.githubusercontent.com/pbl6asoad/cd160e40d30e9ff468488fcb0bf6
            
           
             document.querySelector("#select4").removeEventListener('change', four)
+            
+           document.querySelector("#select4").addEventListener('change', four)
           }
 
 
